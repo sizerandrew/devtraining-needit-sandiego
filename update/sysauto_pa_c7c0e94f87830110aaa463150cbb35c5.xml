@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa">
+    <sysauto_pa action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <benchmarking>false</benchmarking>
+        <business_calendar/>
+        <collect>scores_text</collect>
+        <condition/>
+        <conditional>false</conditional>
+        <description>Data collector for Earthquakes.NewMonthly indicator source.</description>
+        <entered_time/>
+        <kill_job>false</kill_job>
+        <name>Earthquake</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>31</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2022-04-28 13:36:08</run_start>
+        <run_time>1970-01-02 07:45:00</run_time>
+        <run_type>monthly</run_type>
+        <score_fixed_end>20220503</score_fixed_end>
+        <score_fixed_start>20220430</score_fixed_start>
+        <score_operator>fixed</score_operator>
+        <score_relative_end/>
+        <score_relative_end_interval/>
+        <score_relative_start/>
+        <score_relative_start_interval/>
+        <sys_class_name>sysauto_pa</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 13:38:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c7c0e94f87830110aaa463150cbb35c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earthquake</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysauto_pa_c7c0e94f87830110aaa463150cbb35c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 13:38:31</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_pa>
+    <sys_translated_text action="delete_multiple" query="documentkey=c7c0e94f87830110aaa463150cbb35c5"/>
+</record_update>
